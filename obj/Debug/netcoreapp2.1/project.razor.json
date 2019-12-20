@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/chitrangshah/Projects/Auction_Site/Auction_Site.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "Auction_Site",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
